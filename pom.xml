@@ -6,6 +6,7 @@
 	<modules>
 		<module>core</module>
 		<module>service</module>
+		<module>common</module>
 	</modules>
 	<groupId>com.lt</groupId>
 	<artifactId>AUTH</artifactId>
@@ -15,6 +16,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.5</spring-cloud.version>
+		<jackson-databind.version>2.9.6</jackson-databind.version>
 	</properties>
 	<dependencies>
 		<dependency>
