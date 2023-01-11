@@ -91,6 +91,10 @@
 				<enabled>false</enabled>
 			</releases>
 		</repository>
+		<repository>
+			<id>snapshots</id>
+			<url>https://oss.sonatype.org/content/repositories/snapshots/</url>
+		</repository>
 	</repositories>
 	<pluginRepositories>
 		<pluginRepository>
